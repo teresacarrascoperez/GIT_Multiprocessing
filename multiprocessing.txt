@@ -1,0 +1,1816 @@
+Script started on Thu Feb  3 19:59:43 2022
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa ~ % [K[?2004hccd Desktop/PRPA/pc[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa pc % [K[?2004hggit clone [7mgit@github.com:teresacarrascoperez/GIT_Multiprocessing.git[27m[58D[27mg[27mi[27mt[27m@[27mg[27mi[27mt[27mh[27mu[27mb[27m.[27mc[27mo[27mm[27m:[27mt[27me[27mr[27me[27ms[27ma[27mc[27ma[27mr[27mr[27ma[27ms[27mc[27mo[27mp[27me[27mr[27me[27mz[27m/[27mG[27mI[27mT[27m_[27mM[27mu[27ml[27mt[27mi[27mp[27mr[27mo[27mc[27me[27ms[27ms[27mi[27mn[27mg[27m.[27mg[27mi[27mt[?2004l
+Cloning into 'GIT_Multiprocessing'...
+Enter passphrase for key '/Users/teresa/.ssh/id_rsa': 
+remote: Enumerating objects: 3, done.[K
+remote: Counting objects:  33% (1/3)[Kremote: Counting objects:  66% (2/3)[Kremote: Counting objects: 100% (3/3)[Kremote: Counting objects: 100% (3/3), done.[K
+remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:  33% (1/3)Receiving objects:  66% (2/3)Receiving objects: 100% (3/3)Receiving objects: 100% (3/3), 12.42 KiB | 6.21 MiB/s, done.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa pc % [K[?2004hlls -la[?2004l
+total 16
+drwxr-xr-x  5 teresa  staff   160  3 feb 20:00 .
+drwxr-xr-x  5 teresa  staff   160  3 feb 11:03 ..
+-rw-r--r--@ 1 teresa  staff  6148  3 feb 19:56 .DS_Store
+drwxr-xr-x  4 teresa  staff   128  3 feb 20:00 GIT_Multiprocessing
+drwxr-xr-x  5 teresa  staff   160  3 feb 11:08 ProgParalela
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa pc % [K[?2004hmmv ~/Desktop/0_proceos  sos.py ~/Desktop/PRPA/pc/GIT_Multiprocessing/0_proceos  sos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa pc % [K[?2004hmmv ~/Desktop/1_procesos.py ~/Desktop/PRPA/pc/GIT_MU ultiprocessing/1_procesos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa pc % [K[?2004hmv ~/Desktop/1_procesos.py ~/Desktop/PRPA/pc/GIT_Multiprocessing/1_procesos.py[P[64C [65D2[51P[12C ~/Desktop/PRPA/pc/GIT_Multiprocessing/1_procesos.py[64D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[P[12C [13D2_procesos.py[12D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa pc % [K[?2004hmv ~/Desktop/2_procesos.py ~/Desktop/PRPA/pc/GIT_Multiprocessing/2_procesos.py[P[64C [65D3[51P[12C ~/Desktop/PRPA/pc/GIT_Multiprocessing/2_procesos.py[64D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[P[12C [13D3_procesos.py[12D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa pc % [K[?2004hmv ~/Desktop/3_procesos.py ~/Desktop/PRPA/pc/GIT_Multiprocessing/3_procesos.py[P[64C [65D4[51P[12C ~/Desktop/PRPA/pc/GIT_Multiprocessing/3_procesos.py[64D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[P[12C [13D4_procesos.py[12D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa pc % [K[?2004hccd GIT_Multiprocesso ing[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hlls -la[?2004l
+total 112
+drwxr-xr-x   9 teresa  staff    288  3 feb 20:03 .
+drwxr-xr-x   5 teresa  staff    160  3 feb 20:00 ..
+drwxr-xr-x  12 teresa  staff    384  3 feb 20:00 .git
+-rw-r--r--   1 teresa  staff    488  3 feb 11:39 0_procesos.py
+-rw-r--r--   1 teresa  staff    552  3 feb 17:18 1_procesos.py
+-rw-r--r--   1 teresa  staff    690  3 feb 17:18 2_procesos.py
+-rw-r--r--   1 teresa  staff    647  3 feb 19:58 3_procesos.py
+-rw-r--r--   1 teresa  staff    758  3 feb 19:07 4_procesos.py
+-rw-r--r--   1 teresa  staff  35149  3 feb 20:00 LICENSE
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hppython3 0_procesos.py[?2004l
+fin
+hola 0
+hola 0
+hola 1
+hola 1
+hola 2
+hola 2
+hola 3
+hola 3
+hola 4
+hola 4
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hppython3 1_procesos.py[?2004l
+fin
+hola soy ana 0 vuelta 0
+hola soy ana 2 vuelta 0
+hola soy ana 1 vuelta 0
+hola soy ana 0 vuelta 1
+hola soy ana 3 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 8 vuelta 0
+hola soy ana 6 vuelta 0
+adios
+hola soy ana 0 vuelta 2
+hola soy ana 5 vuelta 0
+hola soy ana 9 vuelta 0
+hola soy ana 7 vuelta 0
+hola soy ana 4 vuelta 1
+hola soy ana 5 vuelta 1
+hola soy ana 5 vuelta 2
+hola soy ana 6 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 8 vuelta 2
+hola soy ana 1 vuelta 1
+hola soy ana 4 vuelta 2
+hola soy ana 9 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 7 vuelta 1
+hola soy ana 6 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 9 vuelta 2
+hola soy ana 1 vuelta 2
+hola soy ana 2 vuelta 2
+hola soy ana 7 vuelta 2
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hppython3 2_procesos.py[?2004l
+fin
+hola soy ana_1, 4836, True, vuelta 0
+hola soy ana_2, 4837, True, vuelta 0
+hola soy ana_0, 4835, True, vuelta 0
+adios
+hola soy ana_1, 4836, True, vuelta 1
+hola soy ana_0, 4835, True, vuelta 1
+hola soy ana_2, 4837, True, vuelta 1
+hola soy ana_1, 4836, True, vuelta 2
+hola soy ana_0, 4835, True, vuelta 2
+hola soy ana_2, 4837, True, vuelta 2
+hola soy ana_2, 4837, True, vuelta 3
+hola soy ana_0, 4835, True, vuelta 3
+hola soy ana_2, 4837, True, vuelta 4
+hola soy ana_1, 4836, True, vuelta 3
+hola soy ana_0, 4835, True, vuelta 4
+hola soy ana_1, 4836, True, vuelta 4
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hppython3 3_procesos.py[?2004l
+Valor inicial del contador 0
+hola soy 4841, vuelta: 0, contador: 0
+hola soy 4842, vuelta: 0, contador: 0
+hola soy 4841, vuelta: 1, contador: 1
+hola soy 4841, vuelta: 2, contador: 2
+hola soy 4842, vuelta: 1, contador: 2
+hola soy 4843, vuelta: 0, contador: 2
+hola soy 4841, vuelta: 3, contador: 3
+hola soy 4842, vuelta: 2, contador: 3
+hola soy 4843, vuelta: 1, contador: 3
+hola soy 4844, vuelta: 0, contador: 3
+hola soy 4841, vuelta: 4, contador: 4
+hola soy 4842, vuelta: 3, contador: 4
+hola soy 4843, vuelta: 2, contador: 4
+hola soy 4844, vuelta: 1, contador: 4
+hola soy 4845, vuelta: 0, contador: 4
+hola soy 4842, vuelta: 4, contador: 5
+hola soy 4841, vuelta: 5, contador: 5
+hola soy 4843, vuelta: 3, contador: 5
+hola soy 4844, vuelta: 2, contador: 5
+hola soy 4845, vuelta: 1, contador: 5
+hola soy 4846, vuelta: 0, contador: 5
+hola soy 4842, vuelta: 5, contador: 6
+hola soy 4843, vuelta: 4, contador: 6
+hola soy 4844, vuelta: 3, contador: 6
+hola soy 4841, vuelta: 6, contador: 6
+hola soy 4845, vuelta: 2, contador: 6
+hola soy 4846, vuelta: 1, contador: 6
+hola soy 4847, vuelta: 0, contador: 6
+hola soy 4844, vuelta: 4, contador: 7
+hola soy 4843, vuelta: 5, contador: 7
+hola soy 4841, vuelta: 7, contador: 7
+hola soy 4842, vuelta: 6, contador: 7
+hola soy 4845, vuelta: 3, contador: 7
+hola soy 4846, vuelta: 2, contador: 7
+hola soy 4847, vuelta: 1, contador: 7
+hola soy 4848, vuelta: 0, contador: 7
+hola soy 4844, vuelta: 5, contador: 8
+hola soy 4841, vuelta: 8, contador: 8
+hola soy 4843, vuelta: 6, contador: 8
+hola soy 4845, vuelta: 4, contador: 8
+hola soy 4842, vuelta: 7, contador: 8
+hola soy 4846, vuelta: 3, contador: 8
+hola soy 4847, vuelta: 2, contador: 8
+hola soy 4848, vuelta: 1, contador: 8
+hola soy 4844, vuelta: 6, contador: 9
+hola soy 4843, vuelta: 7, contador: 9
+hola soy 4841, vuelta: 9, contador: 9
+hola soy 4842, vuelta: 8, contador: 9
+hola soy 4845, vuelta: 5, contador: 9
+hola soy 4847, vuelta: 3, contador: 9
+hola soy 4846, vuelta: 4, contador: 9
+hola soy 4848, vuelta: 2, contador: 9
+hola soy 4844, vuelta: 7, contador: 10
+hola soy 4845, vuelta: 6, contador: 10
+hola soy 4842, vuelta: 9, contador: 10
+hola soy 4843, vuelta: 8, contador: 10
+hola soy 4841, vuelta: 10, contador: 10
+hola soy 4847, vuelta: 4, contador: 10
+hola soy 4846, vuelta: 5, contador: 10
+hola soy 4848, vuelta: 3, contador: 10
+hola soy 4845, vuelta: 7, contador: 11
+hola soy 4841, vuelta: 11, contador: 11
+hola soy 4842, vuelta: 10, contador: 11
+hola soy 4844, vuelta: 8, contador: 11
+hola soy 4843, vuelta: 9, contador: 11
+hola soy 4846, vuelta: 6, contador: 11
+hola soy 4847, vuelta: 5, contador: 11
+hola soy 4848, vuelta: 4, contador: 11
+hola soy 4841, vuelta: 12, contador: 12
+hola soy 4844, vuelta: 9, contador: 12
+hola soy 4843, vuelta: 10, contador: 12
+hola soy 4845, vuelta: 8, contador: 12
+hola soy 4846, vuelta: 7, contador: 12
+hola soy 4842, vuelta: 11, contador: 12
+hola soy 4847, vuelta: 6, contador: 12
+hola soy 4848, vuelta: 5, contador: 12
+hola soy 4846, vuelta: 8, contador: 13
+hola soy 4843, vuelta: 11, contador: 13
+hola soy 4844, vuelta: 10, contador: 13
+hola soy 4842, vuelta: 12, contador: 13
+hola soy 4845, vuelta: 9, contador: 13
+hola soy 4847, vuelta: 7, contador: 13
+hola soy 4841, vuelta: 13, contador: 13
+hola soy 4848, vuelta: 6, contador: 13
+hola soy 4843, vuelta: 12, contador: 14
+hola soy 4845, vuelta: 10, contador: 14
+hola soy 4842, vuelta: 13, contador: 14
+hola soy 4844, vuelta: 11, contador: 14
+hola soy 4846, vuelta: 9, contador: 14
+hola soy 4841, vuelta: 14, contador: 14
+hola soy 4847, vuelta: 8, contador: 14
+hola soy 4848, vuelta: 7, contador: 14
+hola soy 4845, vuelta: 11, contador: 15
+hola soy 4842, vuelta: 14, contador: 15
+hola soy 4846, vuelta: 10, contador: 15
+hola soy 4844, vuelta: 12, contador: 15
+hola soy 4841, vuelta: 15, contador: 15
+hola soy 4847, vuelta: 9, contador: 15
+hola soy 4843, vuelta: 13, contador: 15
+hola soy 4848, vuelta: 8, contador: 15
+hola soy 4842, vuelta: 15, contador: 16
+hola soy 4846, vuelta: 11, contador: 16
+hola soy 4844, vuelta: 13, contador: 16
+hola soy 4847, vuelta: 10, contador: 16
+hola soy 4841, vuelta: 16, contador: 16
+hola soy 4845, vuelta: 12, contador: 16
+hola soy 4843, vuelta: 14, contador: 16
+hola soy 4848, vuelta: 9, contador: 16
+hola soy 4847, vuelta: 11, contador: 17
+hola soy 4841, vuelta: 17, contador: 17
+hola soy 4844, vuelta: 14, contador: 17
+hola soy 4842, vuelta: 16, contador: 17
+hola soy 4846, vuelta: 12, contador: 17
+hola soy 4845, vuelta: 13, contador: 17
+hola soy 4843, vuelta: 15, contador: 17
+hola soy 4848, vuelta: 10, contador: 17
+hola soy 4844, vuelta: 15, contador: 18
+hola soy 4842, vuelta: 17, contador: 18
+hola soy 4845, vuelta: 14, contador: 18
+hola soy 4847, vuelta: 12, contador: 18
+hola soy 4841, vuelta: 18, contador: 18
+hola soy 4846, vuelta: 13, contador: 18
+hola soy 4843, vuelta: 16, contador: 18
+hola soy 4848, vuelta: 11, contador: 18
+hola soy 4842, vuelta: 18, contador: 19
+hola soy 4841, vuelta: 19, contador: 19
+hola soy 4847, vuelta: 13, contador: 19
+hola soy 4845, vuelta: 15, contador: 19
+hola soy 4843, vuelta: 17, contador: 19
+hola soy 4846, vuelta: 14, contador: 19
+hola soy 4844, vuelta: 16, contador: 19
+hola soy 4848, vuelta: 12, contador: 19
+hola soy 4841, vuelta: 20, contador: 20
+hola soy 4845, vuelta: 16, contador: 20
+hola soy 4843, vuelta: 18, contador: 20
+hola soy 4842, vuelta: 19, contador: 20
+hola soy 4847, vuelta: 14, contador: 20
+hola soy 4846, vuelta: 15, contador: 20
+hola soy 4844, vuelta: 17, contador: 20
+hola soy 4848, vuelta: 13, contador: 20
+hola soy 4845, vuelta: 17, contador: 21
+hola soy 4847, vuelta: 15, contador: 21
+hola soy 4843, vuelta: 19, contador: 21
+hola soy 4842, vuelta: 20, contador: 21
+hola soy 4841, vuelta: 21, contador: 21
+hola soy 4844, vuelta: 18, contador: 21
+hola soy 4846, vuelta: 16, contador: 21
+hola soy 4848, vuelta: 14, contador: 21
+hola soy 4847, vuelta: 16, contador: 22
+hola soy 4845, vuelta: 18, contador: 22
+hola soy 4843, vuelta: 20, contador: 22
+hola soy 4842, vuelta: 21, contador: 22
+hola soy 4841, vuelta: 22, contador: 22
+hola soy 4846, vuelta: 17, contador: 22
+hola soy 4844, vuelta: 19, contador: 22
+hola soy 4848, vuelta: 15, contador: 22
+hola soy 4843, vuelta: 21, contador: 23
+hola soy 4841, vuelta: 23, contador: 23
+hola soy 4845, vuelta: 19, contador: 23
+hola soy 4842, vuelta: 22, contador: 23
+hola soy 4844, vuelta: 20, contador: 23
+hola soy 4846, vuelta: 18, contador: 23
+hola soy 4847, vuelta: 17, contador: 23
+hola soy 4848, vuelta: 16, contador: 23
+hola soy 4844, vuelta: 21, contador: 24
+hola soy 4842, vuelta: 23, contador: 24
+hola soy 4841, vuelta: 24, contador: 24
+hola soy 4843, vuelta: 22, contador: 24
+hola soy 4845, vuelta: 20, contador: 24
+hola soy 4846, vuelta: 19, contador: 24
+hola soy 4847, vuelta: 18, contador: 24
+hola soy 4848, vuelta: 17, contador: 24
+hola soy 4842, vuelta: 24, contador: 25
+hola soy 4846, vuelta: 20, contador: 25
+hola soy 4843, vuelta: 23, contador: 25
+hola soy 4841, vuelta: 25, contador: 25
+hola soy 4847, vuelta: 19, contador: 25
+hola soy 4845, vuelta: 21, contador: 25
+hola soy 4844, vuelta: 22, contador: 25
+hola soy 4848, vuelta: 18, contador: 25
+hola soy 4846, vuelta: 21, contador: 26
+hola soy 4843, vuelta: 24, contador: 26
+hola soy 4841, vuelta: 26, contador: 26
+hola soy 4847, vuelta: 20, contador: 26
+hola soy 4842, vuelta: 25, contador: 26
+hola soy 4844, vuelta: 23, contador: 26
+hola soy 4845, vuelta: 22, contador: 26
+hola soy 4848, vuelta: 19, contador: 26
+hola soy 4846, vuelta: 22, contador: 27
+hola soy 4843, vuelta: 25, contador: 27
+hola soy 4841, vuelta: 27, contador: 27
+hola soy 4847, vuelta: 21, contador: 27
+hola soy 4842, vuelta: 26, contador: 27
+hola soy 4844, vuelta: 24, contador: 27
+hola soy 4845, vuelta: 23, contador: 27
+hola soy 4848, vuelta: 20, contador: 27
+hola soy 4846, vuelta: 23, contador: 28
+hola soy 4841, vuelta: 28, contador: 28
+hola soy 4842, vuelta: 27, contador: 28
+hola soy 4843, vuelta: 26, contador: 28
+hola soy 4845, vuelta: 24, contador: 28
+hola soy 4847, vuelta: 22, contador: 28
+hola soy 4844, vuelta: 25, contador: 28
+hola soy 4848, vuelta: 21, contador: 28
+hola soy 4846, vuelta: 24, contador: 29
+hola soy 4841, vuelta: 29, contador: 29
+hola soy 4842, vuelta: 28, contador: 29
+hola soy 4843, vuelta: 27, contador: 29
+hola soy 4844, vuelta: 26, contador: 29
+hola soy 4845, vuelta: 25, contador: 29
+hola soy 4847, vuelta: 23, contador: 29
+hola soy 4848, vuelta: 22, contador: 29
+hola soy 4846, vuelta: 25, contador: 30
+hola soy 4841, vuelta: 30, contador: 30
+hola soy 4842, vuelta: 29, contador: 30
+hola soy 4843, vuelta: 28, contador: 30
+hola soy 4844, vuelta: 27, contador: 30
+hola soy 4847, vuelta: 24, contador: 30
+hola soy 4845, vuelta: 26, contador: 30
+hola soy 4848, vuelta: 23, contador: 30
+hola soy 4846, vuelta: 26, contador: 31
+hola soy 4842, vuelta: 30, contador: 31
+hola soy 4841, vuelta: 31, contador: 31
+hola soy 4844, vuelta: 28, contador: 31
+hola soy 4847, vuelta: 25, contador: 31
+hola soy 4843, vuelta: 29, contador: 31
+hola soy 4845, vuelta: 27, contador: 31
+hola soy 4848, vuelta: 24, contador: 31
+hola soy 4841, vuelta: 32, contador: 32
+hola soy 4842, vuelta: 31, contador: 32
+hola soy 4846, vuelta: 27, contador: 32
+hola soy 4844, vuelta: 29, contador: 32
+hola soy 4847, vuelta: 26, contador: 32
+hola soy 4843, vuelta: 30, contador: 32
+hola soy 4845, vuelta: 28, contador: 32
+hola soy 4848, vuelta: 25, contador: 32
+hola soy 4844, vuelta: 30, contador: 33
+hola soy 4841, vuelta: 33, contador: 33
+hola soy 4842, vuelta: 32, contador: 33
+hola soy 4846, vuelta: 28, contador: 33
+hola soy 4847, vuelta: 27, contador: 33
+hola soy 4843, vuelta: 31, contador: 33
+hola soy 4845, vuelta: 29, contador: 33
+hola soy 4848, vuelta: 26, contador: 33
+hola soy 4841, vuelta: 34, contador: 34
+hola soy 4847, vuelta: 28, contador: 34
+hola soy 4846, vuelta: 29, contador: 34
+hola soy 4842, vuelta: 33, contador: 34
+hola soy 4845, vuelta: 30, contador: 34
+hola soy 4844, vuelta: 31, contador: 34
+hola soy 4843, vuelta: 32, contador: 34
+hola soy 4848, vuelta: 27, contador: 34
+hola soy 4847, vuelta: 29, contador: 35
+hola soy 4846, vuelta: 30, contador: 35
+hola soy 4845, vuelta: 31, contador: 35
+hola soy 4842, vuelta: 34, contador: 35
+hola soy 4844, vuelta: 32, contador: 35
+hola soy 4843, vuelta: 33, contador: 35
+hola soy 4841, vuelta: 35, contador: 35
+hola soy 4848, vuelta: 28, contador: 35
+hola soy 4846, vuelta: 31, contador: 36
+hola soy 4845, vuelta: 32, contador: 36
+hola soy 4843, vuelta: 34, contador: 36
+hola soy 4842, vuelta: 35, contador: 36
+hola soy 4844, vuelta: 33, contador: 36
+hola soy 4847, vuelta: 30, contador: 36
+hola soy 4841, vuelta: 36, contador: 36
+hola soy 4848, vuelta: 29, contador: 36
+hola soy 4843, vuelta: 35, contador: 37
+hola soy 4842, vuelta: 36, contador: 37
+hola soy 4844, vuelta: 34, contador: 37
+hola soy 4846, vuelta: 32, contador: 37
+hola soy 4841, vuelta: 37, contador: 37
+hola soy 4845, vuelta: 33, contador: 37
+hola soy 4847, vuelta: 31, contador: 37
+hola soy 4848, vuelta: 30, contador: 37
+hola soy 4843, vuelta: 36, contador: 38
+hola soy 4846, vuelta: 33, contador: 38
+hola soy 4844, vuelta: 35, contador: 38
+hola soy 4841, vuelta: 38, contador: 38
+hola soy 4842, vuelta: 37, contador: 38
+hola soy 4845, vuelta: 34, contador: 38
+hola soy 4847, vuelta: 32, contador: 38
+hola soy 4848, vuelta: 31, contador: 38
+hola soy 4846, vuelta: 34, contador: 39
+hola soy 4842, vuelta: 38, contador: 39
+hola soy 4841, vuelta: 39, contador: 39
+hola soy 4844, vuelta: 36, contador: 39
+hola soy 4845, vuelta: 35, contador: 39
+hola soy 4847, vuelta: 33, contador: 39
+hola soy 4843, vuelta: 37, contador: 39
+hola soy 4848, vuelta: 32, contador: 39
+hola soy 4841, vuelta: 40, contador: 40
+hola soy 4844, vuelta: 37, contador: 40
+hola soy 4842, vuelta: 39, contador: 40
+hola soy 4845, vuelta: 36, contador: 40
+hola soy 4846, vuelta: 35, contador: 40
+hola soy 4847, vuelta: 34, contador: 40
+hola soy 4843, vuelta: 38, contador: 40
+hola soy 4848, vuelta: 33, contador: 40
+hola soy 4844, vuelta: 38, contador: 41
+hola soy 4847, vuelta: 35, contador: 41
+hola soy 4845, vuelta: 37, contador: 41
+hola soy 4842, vuelta: 40, contador: 41
+hola soy 4841, vuelta: 41, contador: 41
+hola soy 4846, vuelta: 36, contador: 41
+hola soy 4843, vuelta: 39, contador: 41
+hola soy 4848, vuelta: 34, contador: 41
+hola soy 4845, vuelta: 38, contador: 42
+hola soy 4841, vuelta: 42, contador: 42
+hola soy 4847, vuelta: 36, contador: 42
+hola soy 4842, vuelta: 41, contador: 42
+hola soy 4844, vuelta: 39, contador: 42
+hola soy 4846, vuelta: 37, contador: 42
+hola soy 4843, vuelta: 40, contador: 42
+hola soy 4848, vuelta: 35, contador: 42
+hola soy 4847, vuelta: 37, contador: 43
+hola soy 4842, vuelta: 42, contador: 43
+hola soy 4841, vuelta: 43, contador: 43
+hola soy 4845, vuelta: 39, contador: 43
+hola soy 4844, vuelta: 40, contador: 43
+hola soy 4843, vuelta: 41, contador: 43
+hola soy 4846, vuelta: 38, contador: 43
+hola soy 4848, vuelta: 36, contador: 43
+hola soy 4842, vuelta: 43, contador: 44
+hola soy 4845, vuelta: 40, contador: 44
+hola soy 4847, vuelta: 38, contador: 44
+hola soy 4841, vuelta: 44, contador: 44
+hola soy 4846, vuelta: 39, contador: 44
+hola soy 4844, vuelta: 41, contador: 44
+hola soy 4843, vuelta: 42, contador: 44
+hola soy 4848, vuelta: 37, contador: 44
+hola soy 4845, vuelta: 41, contador: 45
+hola soy 4847, vuelta: 39, contador: 45
+hola soy 4841, vuelta: 45, contador: 45
+hola soy 4846, vuelta: 40, contador: 45
+hola soy 4842, vuelta: 44, contador: 45
+hola soy 4843, vuelta: 43, contador: 45
+hola soy 4844, vuelta: 42, contador: 45
+hola soy 4848, vuelta: 38, contador: 45
+hola soy 4846, vuelta: 41, contador: 46
+hola soy 4845, vuelta: 42, contador: 46
+hola soy 4841, vuelta: 46, contador: 46
+hola soy 4847, vuelta: 40, contador: 46
+hola soy 4844, vuelta: 43, contador: 46
+hola soy 4843, vuelta: 44, contador: 46
+hola soy 4842, vuelta: 45, contador: 46
+hola soy 4848, vuelta: 39, contador: 46
+hola soy 4846, vuelta: 42, contador: 47
+hola soy 4847, vuelta: 41, contador: 47
+hola soy 4844, vuelta: 44, contador: 47
+hola soy 4845, vuelta: 43, contador: 47
+hola soy 4841, vuelta: 47, contador: 47
+hola soy 4843, vuelta: 45, contador: 47
+hola soy 4842, vuelta: 46, contador: 47
+hola soy 4848, vuelta: 40, contador: 47
+hola soy 4846, vuelta: 43, contador: 48
+hola soy 4847, vuelta: 42, contador: 48
+hola soy 4845, vuelta: 44, contador: 48
+hola soy 4844, vuelta: 45, contador: 48
+hola soy 4843, vuelta: 46, contador: 48
+hola soy 4842, vuelta: 47, contador: 48
+hola soy 4841, vuelta: 48, contador: 48
+hola soy 4848, vuelta: 41, contador: 48
+hola soy 4846, vuelta: 44, contador: 49
+hola soy 4845, vuelta: 45, contador: 49
+hola soy 4844, vuelta: 46, contador: 49
+hola soy 4847, vuelta: 43, contador: 49
+hola soy 4843, vuelta: 47, contador: 49
+hola soy 4841, vuelta: 49, contador: 49
+hola soy 4842, vuelta: 48, contador: 49
+hola soy 4848, vuelta: 42, contador: 49
+hola soy 4846, vuelta: 45, contador: 50
+hola soy 4845, vuelta: 46, contador: 50
+hola soy 4844, vuelta: 47, contador: 50
+hola soy 4843, vuelta: 48, contador: 50
+hola soy 4847, vuelta: 44, contador: 50
+hola soy 4842, vuelta: 49, contador: 50
+hola soy 4841, vuelta: 50, contador: 50
+hola soy 4848, vuelta: 43, contador: 50
+hola soy 4846, vuelta: 46, contador: 51
+hola soy 4843, vuelta: 49, contador: 51
+hola soy 4844, vuelta: 48, contador: 51
+hola soy 4845, vuelta: 47, contador: 51
+hola soy 4847, vuelta: 45, contador: 51
+hola soy 4842, vuelta: 50, contador: 51
+hola soy 4841, vuelta: 51, contador: 51
+hola soy 4848, vuelta: 44, contador: 51
+hola soy 4846, vuelta: 47, contador: 52
+hola soy 4845, vuelta: 48, contador: 52
+hola soy 4843, vuelta: 50, contador: 52
+hola soy 4842, vuelta: 51, contador: 52
+hola soy 4841, vuelta: 52, contador: 52
+hola soy 4847, vuelta: 46, contador: 52
+hola soy 4844, vuelta: 49, contador: 52
+hola soy 4848, vuelta: 45, contador: 52
+hola soy 4846, vuelta: 48, contador: 53
+hola soy 4842, vuelta: 52, contador: 53
+hola soy 4845, vuelta: 49, contador: 53
+hola soy 4843, vuelta: 51, contador: 53
+hola soy 4841, vuelta: 53, contador: 53
+hola soy 4848, vuelta: 46, contador: 53
+hola soy 4844, vuelta: 50, contador: 53
+hola soy 4847, vuelta: 47, contador: 53
+hola soy 4845, vuelta: 50, contador: 54
+hola soy 4846, vuelta: 49, contador: 54
+hola soy 4842, vuelta: 53, contador: 54
+hola soy 4843, vuelta: 52, contador: 54
+hola soy 4841, vuelta: 54, contador: 54
+hola soy 4847, vuelta: 48, contador: 54
+hola soy 4848, vuelta: 47, contador: 54
+hola soy 4844, vuelta: 51, contador: 54
+hola soy 4843, vuelta: 53, contador: 55
+hola soy 4842, vuelta: 54, contador: 55
+hola soy 4845, vuelta: 51, contador: 55
+hola soy 4846, vuelta: 50, contador: 55
+hola soy 4847, vuelta: 49, contador: 55
+hola soy 4841, vuelta: 55, contador: 55
+hola soy 4848, vuelta: 48, contador: 55
+hola soy 4844, vuelta: 52, contador: 55
+hola soy 4846, vuelta: 51, contador: 56
+hola soy 4845, vuelta: 52, contador: 56
+hola soy 4847, vuelta: 50, contador: 56
+hola soy 4841, vuelta: 56, contador: 56
+hola soy 4842, vuelta: 55, contador: 56
+hola soy 4848, vuelta: 49, contador: 56
+hola soy 4843, vuelta: 54, contador: 56
+hola soy 4844, vuelta: 53, contador: 56
+hola soy 4846, vuelta: 52, contador: 57
+hola soy 4841, vuelta: 57, contador: 57
+hola soy 4842, vuelta: 56, contador: 57
+hola soy 4847, vuelta: 51, contador: 57
+hola soy 4845, vuelta: 53, contador: 57
+hola soy 4848, vuelta: 50, contador: 57
+hola soy 4844, vuelta: 54, contador: 57
+hola soy 4843, vuelta: 55, contador: 57
+hola soy 4842, vuelta: 57, contador: 58
+hola soy 4841, vuelta: 58, contador: 58
+hola soy 4846, vuelta: 53, contador: 58
+hola soy 4848, vuelta: 51, contador: 58
+hola soy 4845, vuelta: 54, contador: 58
+hola soy 4844, vuelta: 55, contador: 58
+hola soy 4847, vuelta: 52, contador: 58
+hola soy 4843, vuelta: 56, contador: 58
+hola soy 4842, vuelta: 58, contador: 59
+hola soy 4841, vuelta: 59, contador: 59
+hola soy 4846, vuelta: 54, contador: 59
+hola soy 4848, vuelta: 52, contador: 59
+hola soy 4845, vuelta: 55, contador: 59
+hola soy 4847, vuelta: 53, contador: 59
+hola soy 4843, vuelta: 57, contador: 59
+hola soy 4844, vuelta: 56, contador: 59
+hola soy 4841, vuelta: 60, contador: 60
+hola soy 4842, vuelta: 59, contador: 60
+hola soy 4848, vuelta: 53, contador: 60
+hola soy 4847, vuelta: 54, contador: 60
+hola soy 4843, vuelta: 58, contador: 60
+hola soy 4845, vuelta: 56, contador: 60
+hola soy 4846, vuelta: 55, contador: 60
+hola soy 4844, vuelta: 57, contador: 60
+hola soy 4847, vuelta: 55, contador: 61
+hola soy 4841, vuelta: 61, contador: 61
+hola soy 4842, vuelta: 60, contador: 61
+hola soy 4848, vuelta: 54, contador: 61
+hola soy 4845, vuelta: 57, contador: 61
+hola soy 4844, vuelta: 58, contador: 61
+hola soy 4843, vuelta: 59, contador: 61
+hola soy 4846, vuelta: 56, contador: 61
+hola soy 4847, vuelta: 56, contador: 62
+hola soy 4848, vuelta: 55, contador: 62
+hola soy 4842, vuelta: 61, contador: 62
+hola soy 4841, vuelta: 62, contador: 62
+hola soy 4844, vuelta: 59, contador: 62
+hola soy 4843, vuelta: 60, contador: 62
+hola soy 4845, vuelta: 58, contador: 62
+hola soy 4846, vuelta: 57, contador: 62
+hola soy 4847, vuelta: 57, contador: 63
+hola soy 4848, vuelta: 56, contador: 63
+hola soy 4842, vuelta: 62, contador: 63
+hola soy 4843, vuelta: 61, contador: 63
+hola soy 4844, vuelta: 60, contador: 63
+hola soy 4846, vuelta: 58, contador: 63
+hola soy 4841, vuelta: 63, contador: 63
+hola soy 4845, vuelta: 59, contador: 63
+hola soy 4847, vuelta: 58, contador: 64
+hola soy 4848, vuelta: 57, contador: 64
+hola soy 4846, vuelta: 59, contador: 64
+hola soy 4841, vuelta: 64, contador: 64
+hola soy 4844, vuelta: 61, contador: 64
+hola soy 4842, vuelta: 63, contador: 64
+hola soy 4843, vuelta: 62, contador: 64
+hola soy 4845, vuelta: 60, contador: 64
+hola soy 4846, vuelta: 60, contador: 65
+hola soy 4847, vuelta: 59, contador: 65
+hola soy 4848, vuelta: 58, contador: 65
+hola soy 4842, vuelta: 64, contador: 65
+hola soy 4841, vuelta: 65, contador: 65
+hola soy 4843, vuelta: 63, contador: 65
+hola soy 4844, vuelta: 62, contador: 65
+hola soy 4845, vuelta: 61, contador: 65
+hola soy 4846, vuelta: 61, contador: 66
+hola soy 4842, vuelta: 65, contador: 66
+hola soy 4841, vuelta: 66, contador: 66
+hola soy 4843, vuelta: 64, contador: 66
+hola soy 4848, vuelta: 59, contador: 66
+hola soy 4844, vuelta: 63, contador: 66
+hola soy 4847, vuelta: 60, contador: 66
+hola soy 4845, vuelta: 62, contador: 66
+hola soy 4846, vuelta: 62, contador: 67
+hola soy 4842, vuelta: 66, contador: 67
+hola soy 4841, vuelta: 67, contador: 67
+hola soy 4843, vuelta: 65, contador: 67
+hola soy 4848, vuelta: 60, contador: 67
+hola soy 4847, vuelta: 61, contador: 67
+hola soy 4844, vuelta: 64, contador: 67
+hola soy 4845, vuelta: 63, contador: 67
+hola soy 4846, vuelta: 63, contador: 68
+hola soy 4842, vuelta: 67, contador: 68
+hola soy 4841, vuelta: 68, contador: 68
+hola soy 4848, vuelta: 61, contador: 68
+hola soy 4843, vuelta: 66, contador: 68
+hola soy 4847, vuelta: 62, contador: 68
+hola soy 4844, vuelta: 65, contador: 68
+hola soy 4845, vuelta: 64, contador: 68
+hola soy 4842, vuelta: 68, contador: 69
+hola soy 4843, vuelta: 67, contador: 69
+hola soy 4841, vuelta: 69, contador: 69
+hola soy 4848, vuelta: 62, contador: 69
+hola soy 4846, vuelta: 64, contador: 69
+hola soy 4844, vuelta: 66, contador: 69
+hola soy 4845, vuelta: 65, contador: 69
+hola soy 4847, vuelta: 63, contador: 69
+hola soy 4842, vuelta: 69, contador: 70
+hola soy 4841, vuelta: 70, contador: 70
+hola soy 4843, vuelta: 68, contador: 70
+hola soy 4846, vuelta: 65, contador: 70
+hola soy 4845, vuelta: 66, contador: 70
+hola soy 4844, vuelta: 67, contador: 70
+hola soy 4847, vuelta: 64, contador: 70
+hola soy 4848, vuelta: 63, contador: 70
+hola soy 4843, vuelta: 69, contador: 71
+hola soy 4846, vuelta: 66, contador: 71
+hola soy 4842, vuelta: 70, contador: 71
+hola soy 4844, vuelta: 68, contador: 71
+hola soy 4841, vuelta: 71, contador: 71
+hola soy 4845, vuelta: 67, contador: 71
+hola soy 4847, vuelta: 65, contador: 71
+hola soy 4848, vuelta: 64, contador: 71
+hola soy 4843, vuelta: 70, contador: 72
+hola soy 4842, vuelta: 71, contador: 72
+hola soy 4844, vuelta: 69, contador: 72
+hola soy 4846, vuelta: 67, contador: 72
+hola soy 4841, vuelta: 72, contador: 72
+hola soy 4847, vuelta: 66, contador: 72
+hola soy 4845, vuelta: 68, contador: 72
+hola soy 4848, vuelta: 65, contador: 72
+hola soy 4843, vuelta: 71, contador: 73
+hola soy 4842, vuelta: 72, contador: 73
+hola soy 4844, vuelta: 70, contador: 73
+hola soy 4847, vuelta: 67, contador: 73
+hola soy 4846, vuelta: 68, contador: 73
+hola soy 4845, vuelta: 69, contador: 73
+hola soy 4841, vuelta: 73, contador: 73
+hola soy 4848, vuelta: 66, contador: 73
+hola soy 4843, vuelta: 72, contador: 74
+hola soy 4842, vuelta: 73, contador: 74
+hola soy 4844, vuelta: 71, contador: 74
+hola soy 4846, vuelta: 69, contador: 74
+hola soy 4841, vuelta: 74, contador: 74
+hola soy 4847, vuelta: 68, contador: 74
+hola soy 4848, vuelta: 67, contador: 74
+hola soy 4845, vuelta: 70, contador: 74
+hola soy 4843, vuelta: 73, contador: 75
+hola soy 4844, vuelta: 72, contador: 75
+hola soy 4842, vuelta: 74, contador: 75
+hola soy 4846, vuelta: 70, contador: 75
+hola soy 4848, vuelta: 68, contador: 75
+hola soy 4841, vuelta: 75, contador: 75
+hola soy 4845, vuelta: 71, contador: 75
+hola soy 4847, vuelta: 69, contador: 75
+hola soy 4842, vuelta: 75, contador: 76
+hola soy 4844, vuelta: 73, contador: 76
+hola soy 4843, vuelta: 74, contador: 76
+hola soy 4845, vuelta: 72, contador: 76
+hola soy 4846, vuelta: 71, contador: 76
+hola soy 4841, vuelta: 76, contador: 76
+hola soy 4848, vuelta: 69, contador: 76
+hola soy 4847, vuelta: 70, contador: 76
+hola soy 4842, vuelta: 76, contador: 77
+hola soy 4844, vuelta: 74, contador: 77
+hola soy 4843, vuelta: 75, contador: 77
+hola soy 4841, vuelta: 77, contador: 77
+hola soy 4846, vuelta: 72, contador: 77
+hola soy 4847, vuelta: 71, contador: 77
+hola soy 4845, vuelta: 73, contador: 77
+hola soy 4848, vuelta: 70, contador: 77
+hola soy 4844, vuelta: 75, contador: 78
+hola soy 4842, vuelta: 77, contador: 78
+hola soy 4843, vuelta: 76, contador: 78
+hola soy 4847, vuelta: 72, contador: 78
+hola soy 4841, vuelta: 78, contador: 78
+hola soy 4846, vuelta: 73, contador: 78
+hola soy 4845, vuelta: 74, contador: 78
+hola soy 4848, vuelta: 71, contador: 78
+hola soy 4842, vuelta: 78, contador: 79
+hola soy 4844, vuelta: 76, contador: 79
+hola soy 4843, vuelta: 77, contador: 79
+hola soy 4847, vuelta: 73, contador: 79
+hola soy 4841, vuelta: 79, contador: 79
+hola soy 4846, vuelta: 74, contador: 79
+hola soy 4845, vuelta: 75, contador: 79
+hola soy 4848, vuelta: 72, contador: 79
+hola soy 4842, vuelta: 79, contador: 80
+hola soy 4843, vuelta: 78, contador: 80
+hola soy 4844, vuelta: 77, contador: 80
+hola soy 4841, vuelta: 80, contador: 80
+hola soy 4846, vuelta: 75, contador: 80
+hola soy 4847, vuelta: 74, contador: 80
+hola soy 4845, vuelta: 76, contador: 80
+hola soy 4848, vuelta: 73, contador: 80
+hola soy 4842, vuelta: 80, contador: 81
+hola soy 4844, vuelta: 78, contador: 81
+hola soy 4843, vuelta: 79, contador: 81
+hola soy 4841, vuelta: 81, contador: 81
+hola soy 4846, vuelta: 76, contador: 81
+hola soy 4847, vuelta: 75, contador: 81
+hola soy 4845, vuelta: 77, contador: 81
+hola soy 4848, vuelta: 74, contador: 81
+hola soy 4842, vuelta: 81, contador: 82
+hola soy 4843, vuelta: 80, contador: 82
+hola soy 4844, vuelta: 79, contador: 82
+hola soy 4841, vuelta: 82, contador: 82
+hola soy 4846, vuelta: 77, contador: 82
+hola soy 4847, vuelta: 76, contador: 82
+hola soy 4845, vuelta: 78, contador: 82
+hola soy 4848, vuelta: 75, contador: 82
+hola soy 4842, vuelta: 82, contador: 83
+hola soy 4844, vuelta: 80, contador: 83
+hola soy 4843, vuelta: 81, contador: 83
+hola soy 4841, vuelta: 83, contador: 83
+hola soy 4846, vuelta: 78, contador: 83
+hola soy 4847, vuelta: 77, contador: 83
+hola soy 4848, vuelta: 76, contador: 83
+hola soy 4845, vuelta: 79, contador: 83
+hola soy 4844, vuelta: 81, contador: 84
+hola soy 4842, vuelta: 83, contador: 84
+hola soy 4843, vuelta: 82, contador: 84
+hola soy 4846, vuelta: 79, contador: 84
+hola soy 4847, vuelta: 78, contador: 84
+hola soy 4841, vuelta: 84, contador: 84
+hola soy 4845, vuelta: 80, contador: 84
+hola soy 4848, vuelta: 77, contador: 84
+hola soy 4844, vuelta: 82, contador: 85
+hola soy 4842, vuelta: 84, contador: 85
+hola soy 4843, vuelta: 83, contador: 85
+hola soy 4846, vuelta: 80, contador: 85
+hola soy 4847, vuelta: 79, contador: 85
+hola soy 4841, vuelta: 85, contador: 85
+hola soy 4848, vuelta: 78, contador: 85
+hola soy 4845, vuelta: 81, contador: 85
+hola soy 4844, vuelta: 83, contador: 86
+hola soy 4842, vuelta: 85, contador: 86
+hola soy 4843, vuelta: 84, contador: 86
+hola soy 4847, vuelta: 80, contador: 86
+hola soy 4846, vuelta: 81, contador: 86
+hola soy 4841, vuelta: 86, contador: 86
+hola soy 4848, vuelta: 79, contador: 86
+hola soy 4845, vuelta: 82, contador: 86
+hola soy 4844, vuelta: 84, contador: 87
+hola soy 4842, vuelta: 86, contador: 87
+hola soy 4843, vuelta: 85, contador: 87
+hola soy 4846, vuelta: 82, contador: 87
+hola soy 4841, vuelta: 87, contador: 87
+hola soy 4847, vuelta: 81, contador: 87
+hola soy 4848, vuelta: 80, contador: 87
+hola soy 4845, vuelta: 83, contador: 87
+hola soy 4842, vuelta: 87, contador: 88
+hola soy 4843, vuelta: 86, contador: 88
+hola soy 4844, vuelta: 85, contador: 88
+hola soy 4846, vuelta: 83, contador: 88
+hola soy 4847, vuelta: 82, contador: 88
+hola soy 4841, vuelta: 88, contador: 88
+hola soy 4845, vuelta: 84, contador: 88
+hola soy 4848, vuelta: 81, contador: 88
+hola soy 4842, vuelta: 88, contador: 89
+hola soy 4843, vuelta: 87, contador: 89
+hola soy 4844, vuelta: 86, contador: 89
+hola soy 4847, vuelta: 83, contador: 89
+hola soy 4846, vuelta: 84, contador: 89
+hola soy 4845, vuelta: 85, contador: 89
+hola soy 4848, vuelta: 82, contador: 89
+hola soy 4841, vuelta: 89, contador: 89
+hola soy 4844, vuelta: 87, contador: 90
+hola soy 4842, vuelta: 89, contador: 90
+hola soy 4843, vuelta: 88, contador: 90
+hola soy 4846, vuelta: 85, contador: 90
+hola soy 4847, vuelta: 84, contador: 90
+hola soy 4848, vuelta: 83, contador: 90
+hola soy 4845, vuelta: 86, contador: 90
+hola soy 4841, vuelta: 90, contador: 90
+hola soy 4844, vuelta: 88, contador: 91
+hola soy 4842, vuelta: 90, contador: 91
+hola soy 4843, vuelta: 89, contador: 91
+hola soy 4846, vuelta: 86, contador: 91
+hola soy 4847, vuelta: 85, contador: 91
+hola soy 4845, vuelta: 87, contador: 91
+hola soy 4848, vuelta: 84, contador: 91
+hola soy 4841, vuelta: 91, contador: 91
+hola soy 4844, vuelta: 89, contador: 92
+hola soy 4843, vuelta: 90, contador: 92
+hola soy 4842, vuelta: 91, contador: 92
+hola soy 4846, vuelta: 87, contador: 92
+hola soy 4847, vuelta: 86, contador: 92
+hola soy 4841, vuelta: 92, contador: 92
+hola soy 4845, vuelta: 88, contador: 92
+hola soy 4848, vuelta: 85, contador: 92
+hola soy 4844, vuelta: 90, contador: 93
+hola soy 4843, vuelta: 91, contador: 93
+hola soy 4842, vuelta: 92, contador: 93
+hola soy 4846, vuelta: 88, contador: 93
+hola soy 4847, vuelta: 87, contador: 93
+hola soy 4841, vuelta: 93, contador: 93
+hola soy 4848, vuelta: 86, contador: 93
+hola soy 4845, vuelta: 89, contador: 93
+hola soy 4844, vuelta: 91, contador: 94
+hola soy 4842, vuelta: 93, contador: 94
+hola soy 4843, vuelta: 92, contador: 94
+hola soy 4847, vuelta: 88, contador: 94
+hola soy 4846, vuelta: 89, contador: 94
+hola soy 4848, vuelta: 87, contador: 94
+hola soy 4841, vuelta: 94, contador: 94
+hola soy 4845, vuelta: 90, contador: 94
+hola soy 4842, vuelta: 94, contador: 95
+hola soy 4843, vuelta: 93, contador: 95
+hola soy 4844, vuelta: 92, contador: 95
+hola soy 4846, vuelta: 90, contador: 95
+hola soy 4848, vuelta: 88, contador: 95
+hola soy 4847, vuelta: 89, contador: 95
+hola soy 4841, vuelta: 95, contador: 95
+hola soy 4845, vuelta: 91, contador: 95
+hola soy 4844, vuelta: 93, contador: 96
+hola soy 4843, vuelta: 94, contador: 96
+hola soy 4842, vuelta: 95, contador: 96
+hola soy 4847, vuelta: 90, contador: 96
+hola soy 4845, vuelta: 92, contador: 96
+hola soy 4841, vuelta: 96, contador: 96
+hola soy 4848, vuelta: 89, contador: 96
+hola soy 4846, vuelta: 91, contador: 96
+hola soy 4844, vuelta: 94, contador: 97
+hola soy 4842, vuelta: 96, contador: 97
+hola soy 4843, vuelta: 95, contador: 97
+hola soy 4841, vuelta: 97, contador: 97
+hola soy 4847, vuelta: 91, contador: 97
+hola soy 4848, vuelta: 90, contador: 97
+hola soy 4846, vuelta: 92, contador: 97
+hola soy 4845, vuelta: 93, contador: 97
+hola soy 4844, vuelta: 95, contador: 98
+hola soy 4842, vuelta: 97, contador: 98
+hola soy 4843, vuelta: 96, contador: 98
+hola soy 4841, vuelta: 98, contador: 98
+hola soy 4847, vuelta: 92, contador: 98
+hola soy 4848, vuelta: 91, contador: 98
+hola soy 4846, vuelta: 93, contador: 98
+hola soy 4845, vuelta: 94, contador: 98
+hola soy 4844, vuelta: 96, contador: 99
+hola soy 4842, vuelta: 98, contador: 99
+hola soy 4843, vuelta: 97, contador: 99
+hola soy 4847, vuelta: 93, contador: 99
+hola soy 4848, vuelta: 92, contador: 99
+hola soy 4841, vuelta: 99, contador: 99
+hola soy 4846, vuelta: 94, contador: 99
+hola soy 4845, vuelta: 95, contador: 99
+hola soy 4844, vuelta: 97, contador: 100
+hola soy 4842, vuelta: 99, contador: 100
+hola soy 4843, vuelta: 98, contador: 100
+hola soy 4847, vuelta: 94, contador: 100
+hola soy 4846, vuelta: 95, contador: 100
+hola soy 4848, vuelta: 93, contador: 100
+hola soy 4845, vuelta: 96, contador: 100
+hola soy 4844, vuelta: 98, contador: 101
+hola soy 4843, vuelta: 99, contador: 101
+hola soy 4848, vuelta: 94, contador: 101
+hola soy 4845, vuelta: 97, contador: 101
+hola soy 4847, vuelta: 95, contador: 101
+hola soy 4846, vuelta: 96, contador: 101
+hola soy 4844, vuelta: 99, contador: 102
+hola soy 4846, vuelta: 97, contador: 102
+hola soy 4848, vuelta: 95, contador: 102
+hola soy 4847, vuelta: 96, contador: 102
+hola soy 4845, vuelta: 98, contador: 102
+hola soy 4845, vuelta: 99, contador: 103
+hola soy 4847, vuelta: 97, contador: 103
+hola soy 4848, vuelta: 96, contador: 103
+hola soy 4846, vuelta: 98, contador: 103
+hola soy 4848, vuelta: 97, contador: 104
+hola soy 4846, vuelta: 99, contador: 104
+hola soy 4847, vuelta: 98, contador: 104
+hola soy 4848, vuelta: 98, contador: 105
+hola soy 4847, vuelta: 99, contador: 105
+hola soy 4848, vuelta: 99, contador: 106
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hppython3 4_procesos.py[?2004l
+Valor inicial del contador 0
+hola soy 4852, vuelta: 0, contador: 1
+hola soy 4852, vuelta: 1, contador: 2
+hola soy 4852, vuelta: 2, contador: 3
+hola soy 4852, vuelta: 3, contador: 4
+hola soy 4852, vuelta: 4, contador: 5
+hola soy 4852, vuelta: 5, contador: 6
+hola soy 4852, vuelta: 6, contador: 7
+hola soy 4852, vuelta: 7, contador: 8
+hola soy 4852, vuelta: 8, contador: 9
+hola soy 4852, vuelta: 9, contador: 10
+hola soy 4852, vuelta: 10, contador: 11
+hola soy 4852, vuelta: 11, contador: 12
+hola soy 4852, vuelta: 12, contador: 13
+hola soy 4852, vuelta: 13, contador: 14
+hola soy 4852, vuelta: 14, contador: 15
+hola soy 4852, vuelta: 15, contador: 16
+hola soy 4852, vuelta: 16, contador: 17
+hola soy 4852, vuelta: 17, contador: 18
+hola soy 4852, vuelta: 18, contador: 19
+hola soy 4852, vuelta: 19, contador: 20
+hola soy 4852, vuelta: 20, contador: 21
+hola soy 4852, vuelta: 21, contador: 22
+hola soy 4852, vuelta: 22, contador: 23
+hola soy 4852, vuelta: 23, contador: 24
+hola soy 4852, vuelta: 24, contador: 25
+hola soy 4852, vuelta: 25, contador: 26
+hola soy 4852, vuelta: 26, contador: 27
+hola soy 4852, vuelta: 27, contador: 28
+hola soy 4852, vuelta: 28, contador: 29
+hola soy 4852, vuelta: 29, contador: 30
+hola soy 4852, vuelta: 30, contador: 31
+hola soy 4852, vuelta: 31, contador: 32
+hola soy 4852, vuelta: 32, contador: 33
+hola soy 4852, vuelta: 33, contador: 34
+hola soy 4852, vuelta: 34, contador: 35
+hola soy 4852, vuelta: 35, contador: 36
+hola soy 4852, vuelta: 36, contador: 37
+hola soy 4852, vuelta: 37, contador: 38
+hola soy 4852, vuelta: 38, contador: 39
+hola soy 4852, vuelta: 39, contador: 40
+hola soy 4852, vuelta: 40, contador: 41
+hola soy 4852, vuelta: 41, contador: 42
+hola soy 4852, vuelta: 42, contador: 43
+hola soy 4852, vuelta: 43, contador: 44
+hola soy 4852, vuelta: 44, contador: 45
+hola soy 4852, vuelta: 45, contador: 46
+hola soy 4852, vuelta: 46, contador: 47
+hola soy 4852, vuelta: 47, contador: 48
+hola soy 4852, vuelta: 48, contador: 49
+hola soy 4852, vuelta: 49, contador: 50
+hola soy 4852, vuelta: 50, contador: 51
+hola soy 4852, vuelta: 51, contador: 52
+hola soy 4852, vuelta: 52, contador: 53
+hola soy 4852, vuelta: 53, contador: 54
+hola soy 4852, vuelta: 54, contador: 55
+hola soy 4852, vuelta: 55, contador: 56
+hola soy 4852, vuelta: 56, contador: 57
+hola soy 4852, vuelta: 57, contador: 58
+hola soy 4852, vuelta: 58, contador: 59
+hola soy 4852, vuelta: 59, contador: 60
+hola soy 4852, vuelta: 60, contador: 61
+hola soy 4852, vuelta: 61, contador: 62
+hola soy 4852, vuelta: 62, contador: 63
+hola soy 4852, vuelta: 63, contador: 64
+hola soy 4852, vuelta: 64, contador: 65
+hola soy 4852, vuelta: 65, contador: 66
+hola soy 4852, vuelta: 66, contador: 67
+hola soy 4852, vuelta: 67, contador: 68
+hola soy 4852, vuelta: 68, contador: 69
+hola soy 4852, vuelta: 69, contador: 70
+hola soy 4852, vuelta: 70, contador: 71
+hola soy 4852, vuelta: 71, contador: 72
+hola soy 4852, vuelta: 72, contador: 73
+hola soy 4852, vuelta: 73, contador: 74
+hola soy 4852, vuelta: 74, contador: 75
+hola soy 4852, vuelta: 75, contador: 76
+hola soy 4852, vuelta: 76, contador: 77
+hola soy 4852, vuelta: 77, contador: 78
+hola soy 4852, vuelta: 78, contador: 79
+hola soy 4852, vuelta: 79, contador: 80
+hola soy 4852, vuelta: 80, contador: 81
+hola soy 4852, vuelta: 81, contador: 82
+hola soy 4852, vuelta: 82, contador: 83
+hola soy 4852, vuelta: 83, contador: 84
+hola soy 4852, vuelta: 84, contador: 85
+hola soy 4852, vuelta: 85, contador: 86
+hola soy 4852, vuelta: 86, contador: 87
+hola soy 4852, vuelta: 87, contador: 88
+hola soy 4852, vuelta: 88, contador: 89
+hola soy 4852, vuelta: 89, contador: 90
+hola soy 4852, vuelta: 90, contador: 91
+hola soy 4852, vuelta: 91, contador: 92
+hola soy 4852, vuelta: 92, contador: 93
+hola soy 4852, vuelta: 93, contador: 94
+hola soy 4852, vuelta: 94, contador: 95
+hola soy 4852, vuelta: 95, contador: 96
+hola soy 4852, vuelta: 96, contador: 97
+hola soy 4852, vuelta: 97, contador: 98
+hola soy 4852, vuelta: 98, contador: 99
+hola soy 4852, vuelta: 99, contador: 100
+hola soy 4853, vuelta: 0, contador: 101
+hola soy 4853, vuelta: 1, contador: 102
+hola soy 4853, vuelta: 2, contador: 103
+hola soy 4853, vuelta: 3, contador: 104
+hola soy 4853, vuelta: 4, contador: 105
+hola soy 4853, vuelta: 5, contador: 106
+hola soy 4853, vuelta: 6, contador: 107
+hola soy 4853, vuelta: 7, contador: 108
+hola soy 4853, vuelta: 8, contador: 109
+hola soy 4853, vuelta: 9, contador: 110
+hola soy 4853, vuelta: 10, contador: 111
+hola soy 4853, vuelta: 11, contador: 112
+hola soy 4853, vuelta: 12, contador: 113
+hola soy 4853, vuelta: 13, contador: 114
+hola soy 4853, vuelta: 14, contador: 115
+hola soy 4853, vuelta: 15, contador: 116
+hola soy 4853, vuelta: 16, contador: 117
+hola soy 4853, vuelta: 17, contador: 118
+hola soy 4853, vuelta: 18, contador: 119
+hola soy 4853, vuelta: 19, contador: 120
+hola soy 4853, vuelta: 20, contador: 121
+hola soy 4853, vuelta: 21, contador: 122
+hola soy 4853, vuelta: 22, contador: 123
+hola soy 4853, vuelta: 23, contador: 124
+hola soy 4853, vuelta: 24, contador: 125
+hola soy 4853, vuelta: 25, contador: 126
+hola soy 4853, vuelta: 26, contador: 127
+hola soy 4853, vuelta: 27, contador: 128
+hola soy 4853, vuelta: 28, contador: 129
+hola soy 4853, vuelta: 29, contador: 130
+hola soy 4853, vuelta: 30, contador: 131
+hola soy 4853, vuelta: 31, contador: 132
+hola soy 4853, vuelta: 32, contador: 133
+hola soy 4853, vuelta: 33, contador: 134
+hola soy 4853, vuelta: 34, contador: 135
+hola soy 4853, vuelta: 35, contador: 136
+hola soy 4853, vuelta: 36, contador: 137
+hola soy 4853, vuelta: 37, contador: 138
+hola soy 4853, vuelta: 38, contador: 139
+hola soy 4853, vuelta: 39, contador: 140
+hola soy 4853, vuelta: 40, contador: 141
+hola soy 4853, vuelta: 41, contador: 142
+hola soy 4853, vuelta: 42, contador: 143
+hola soy 4853, vuelta: 43, contador: 144
+hola soy 4853, vuelta: 44, contador: 145
+hola soy 4853, vuelta: 45, contador: 146
+hola soy 4853, vuelta: 46, contador: 147
+hola soy 4853, vuelta: 47, contador: 148
+hola soy 4853, vuelta: 48, contador: 149
+hola soy 4853, vuelta: 49, contador: 150
+hola soy 4853, vuelta: 50, contador: 151
+hola soy 4853, vuelta: 51, contador: 152
+hola soy 4853, vuelta: 52, contador: 153
+hola soy 4853, vuelta: 53, contador: 154
+hola soy 4853, vuelta: 54, contador: 155
+hola soy 4853, vuelta: 55, contador: 156
+hola soy 4853, vuelta: 56, contador: 157
+hola soy 4853, vuelta: 57, contador: 158
+hola soy 4853, vuelta: 58, contador: 159
+hola soy 4853, vuelta: 59, contador: 160
+hola soy 4853, vuelta: 60, contador: 161
+hola soy 4853, vuelta: 61, contador: 162
+hola soy 4853, vuelta: 62, contador: 163
+hola soy 4853, vuelta: 63, contador: 164
+hola soy 4853, vuelta: 64, contador: 165
+hola soy 4853, vuelta: 65, contador: 166
+hola soy 4853, vuelta: 66, contador: 167
+hola soy 4853, vuelta: 67, contador: 168
+hola soy 4853, vuelta: 68, contador: 169
+hola soy 4853, vuelta: 69, contador: 170
+hola soy 4853, vuelta: 70, contador: 171
+hola soy 4853, vuelta: 71, contador: 172
+hola soy 4853, vuelta: 72, contador: 173
+hola soy 4853, vuelta: 73, contador: 174
+hola soy 4853, vuelta: 74, contador: 175
+hola soy 4853, vuelta: 75, contador: 176
+hola soy 4853, vuelta: 76, contador: 177
+hola soy 4853, vuelta: 77, contador: 178
+hola soy 4853, vuelta: 78, contador: 179
+hola soy 4853, vuelta: 79, contador: 180
+hola soy 4853, vuelta: 80, contador: 181
+hola soy 4853, vuelta: 81, contador: 182
+hola soy 4853, vuelta: 82, contador: 183
+hola soy 4853, vuelta: 83, contador: 184
+hola soy 4853, vuelta: 84, contador: 185
+hola soy 4853, vuelta: 85, contador: 186
+hola soy 4853, vuelta: 86, contador: 187
+hola soy 4853, vuelta: 87, contador: 188
+hola soy 4853, vuelta: 88, contador: 189
+hola soy 4853, vuelta: 89, contador: 190
+hola soy 4853, vuelta: 90, contador: 191
+hola soy 4853, vuelta: 91, contador: 192
+hola soy 4853, vuelta: 92, contador: 193
+hola soy 4853, vuelta: 93, contador: 194
+hola soy 4853, vuelta: 94, contador: 195
+hola soy 4853, vuelta: 95, contador: 196
+hola soy 4853, vuelta: 96, contador: 197
+hola soy 4853, vuelta: 97, contador: 198
+hola soy 4853, vuelta: 98, contador: 199
+hola soy 4853, vuelta: 99, contador: 200
+hola soy 4854, vuelta: 0, contador: 201
+hola soy 4854, vuelta: 1, contador: 202
+hola soy 4854, vuelta: 2, contador: 203
+hola soy 4854, vuelta: 3, contador: 204
+hola soy 4854, vuelta: 4, contador: 205
+hola soy 4854, vuelta: 5, contador: 206
+hola soy 4854, vuelta: 6, contador: 207
+hola soy 4854, vuelta: 7, contador: 208
+hola soy 4854, vuelta: 8, contador: 209
+hola soy 4854, vuelta: 9, contador: 210
+hola soy 4854, vuelta: 10, contador: 211
+hola soy 4854, vuelta: 11, contador: 212
+hola soy 4854, vuelta: 12, contador: 213
+hola soy 4854, vuelta: 13, contador: 214
+hola soy 4854, vuelta: 14, contador: 215
+hola soy 4854, vuelta: 15, contador: 216
+hola soy 4854, vuelta: 16, contador: 217
+hola soy 4854, vuelta: 17, contador: 218
+hola soy 4854, vuelta: 18, contador: 219
+hola soy 4854, vuelta: 19, contador: 220
+hola soy 4854, vuelta: 20, contador: 221
+hola soy 4854, vuelta: 21, contador: 222
+hola soy 4854, vuelta: 22, contador: 223
+hola soy 4854, vuelta: 23, contador: 224
+hola soy 4854, vuelta: 24, contador: 225
+hola soy 4854, vuelta: 25, contador: 226
+hola soy 4854, vuelta: 26, contador: 227
+hola soy 4854, vuelta: 27, contador: 228
+hola soy 4854, vuelta: 28, contador: 229
+hola soy 4854, vuelta: 29, contador: 230
+hola soy 4854, vuelta: 30, contador: 231
+hola soy 4854, vuelta: 31, contador: 232
+hola soy 4854, vuelta: 32, contador: 233
+hola soy 4854, vuelta: 33, contador: 234
+hola soy 4854, vuelta: 34, contador: 235
+hola soy 4854, vuelta: 35, contador: 236
+hola soy 4854, vuelta: 36, contador: 237
+hola soy 4854, vuelta: 37, contador: 238
+hola soy 4854, vuelta: 38, contador: 239
+hola soy 4854, vuelta: 39, contador: 240
+hola soy 4854, vuelta: 40, contador: 241
+hola soy 4854, vuelta: 41, contador: 242
+hola soy 4854, vuelta: 42, contador: 243
+hola soy 4854, vuelta: 43, contador: 244
+hola soy 4854, vuelta: 44, contador: 245
+hola soy 4854, vuelta: 45, contador: 246
+hola soy 4854, vuelta: 46, contador: 247
+hola soy 4854, vuelta: 47, contador: 248
+hola soy 4854, vuelta: 48, contador: 249
+hola soy 4854, vuelta: 49, contador: 250
+hola soy 4854, vuelta: 50, contador: 251
+hola soy 4854, vuelta: 51, contador: 252
+hola soy 4854, vuelta: 52, contador: 253
+hola soy 4854, vuelta: 53, contador: 254
+hola soy 4854, vuelta: 54, contador: 255
+hola soy 4854, vuelta: 55, contador: 256
+hola soy 4854, vuelta: 56, contador: 257
+hola soy 4854, vuelta: 57, contador: 258
+hola soy 4854, vuelta: 58, contador: 259
+hola soy 4854, vuelta: 59, contador: 260
+hola soy 4854, vuelta: 60, contador: 261
+hola soy 4854, vuelta: 61, contador: 262
+hola soy 4854, vuelta: 62, contador: 263
+hola soy 4854, vuelta: 63, contador: 264
+hola soy 4854, vuelta: 64, contador: 265
+hola soy 4854, vuelta: 65, contador: 266
+hola soy 4854, vuelta: 66, contador: 267
+hola soy 4854, vuelta: 67, contador: 268
+hola soy 4854, vuelta: 68, contador: 269
+hola soy 4854, vuelta: 69, contador: 270
+hola soy 4854, vuelta: 70, contador: 271
+hola soy 4854, vuelta: 71, contador: 272
+hola soy 4854, vuelta: 72, contador: 273
+hola soy 4854, vuelta: 73, contador: 274
+hola soy 4854, vuelta: 74, contador: 275
+hola soy 4854, vuelta: 75, contador: 276
+hola soy 4854, vuelta: 76, contador: 277
+hola soy 4854, vuelta: 77, contador: 278
+hola soy 4854, vuelta: 78, contador: 279
+hola soy 4854, vuelta: 79, contador: 280
+hola soy 4854, vuelta: 80, contador: 281
+hola soy 4854, vuelta: 81, contador: 282
+hola soy 4854, vuelta: 82, contador: 283
+hola soy 4854, vuelta: 83, contador: 284
+hola soy 4854, vuelta: 84, contador: 285
+hola soy 4854, vuelta: 85, contador: 286
+hola soy 4854, vuelta: 86, contador: 287
+hola soy 4854, vuelta: 87, contador: 288
+hola soy 4854, vuelta: 88, contador: 289
+hola soy 4854, vuelta: 89, contador: 290
+hola soy 4854, vuelta: 90, contador: 291
+hola soy 4854, vuelta: 91, contador: 292
+hola soy 4854, vuelta: 92, contador: 293
+hola soy 4854, vuelta: 93, contador: 294
+hola soy 4854, vuelta: 94, contador: 295
+hola soy 4854, vuelta: 95, contador: 296
+hola soy 4854, vuelta: 96, contador: 297
+hola soy 4854, vuelta: 97, contador: 298
+hola soy 4854, vuelta: 98, contador: 299
+hola soy 4854, vuelta: 99, contador: 300
+hola soy 4855, vuelta: 0, contador: 301
+hola soy 4855, vuelta: 1, contador: 302
+hola soy 4855, vuelta: 2, contador: 303
+hola soy 4855, vuelta: 3, contador: 304
+hola soy 4855, vuelta: 4, contador: 305
+hola soy 4855, vuelta: 5, contador: 306
+hola soy 4855, vuelta: 6, contador: 307
+hola soy 4855, vuelta: 7, contador: 308
+hola soy 4855, vuelta: 8, contador: 309
+hola soy 4855, vuelta: 9, contador: 310
+hola soy 4855, vuelta: 10, contador: 311
+hola soy 4855, vuelta: 11, contador: 312
+hola soy 4855, vuelta: 12, contador: 313
+hola soy 4855, vuelta: 13, contador: 314
+hola soy 4855, vuelta: 14, contador: 315
+hola soy 4855, vuelta: 15, contador: 316
+hola soy 4855, vuelta: 16, contador: 317
+hola soy 4855, vuelta: 17, contador: 318
+hola soy 4855, vuelta: 18, contador: 319
+hola soy 4855, vuelta: 19, contador: 320
+hola soy 4855, vuelta: 20, contador: 321
+hola soy 4855, vuelta: 21, contador: 322
+hola soy 4855, vuelta: 22, contador: 323
+hola soy 4855, vuelta: 23, contador: 324
+hola soy 4855, vuelta: 24, contador: 325
+hola soy 4855, vuelta: 25, contador: 326
+hola soy 4855, vuelta: 26, contador: 327
+hola soy 4855, vuelta: 27, contador: 328
+hola soy 4855, vuelta: 28, contador: 329
+hola soy 4855, vuelta: 29, contador: 330
+hola soy 4855, vuelta: 30, contador: 331
+hola soy 4855, vuelta: 31, contador: 332
+hola soy 4855, vuelta: 32, contador: 333
+hola soy 4855, vuelta: 33, contador: 334
+hola soy 4855, vuelta: 34, contador: 335
+hola soy 4855, vuelta: 35, contador: 336
+hola soy 4855, vuelta: 36, contador: 337
+hola soy 4855, vuelta: 37, contador: 338
+hola soy 4855, vuelta: 38, contador: 339
+hola soy 4855, vuelta: 39, contador: 340
+hola soy 4855, vuelta: 40, contador: 341
+hola soy 4855, vuelta: 41, contador: 342
+hola soy 4855, vuelta: 42, contador: 343
+hola soy 4855, vuelta: 43, contador: 344
+hola soy 4855, vuelta: 44, contador: 345
+hola soy 4855, vuelta: 45, contador: 346
+hola soy 4855, vuelta: 46, contador: 347
+hola soy 4855, vuelta: 47, contador: 348
+hola soy 4855, vuelta: 48, contador: 349
+hola soy 4855, vuelta: 49, contador: 350
+hola soy 4855, vuelta: 50, contador: 351
+hola soy 4855, vuelta: 51, contador: 352
+hola soy 4855, vuelta: 52, contador: 353
+hola soy 4855, vuelta: 53, contador: 354
+hola soy 4855, vuelta: 54, contador: 355
+hola soy 4855, vuelta: 55, contador: 356
+hola soy 4855, vuelta: 56, contador: 357
+hola soy 4855, vuelta: 57, contador: 358
+hola soy 4855, vuelta: 58, contador: 359
+hola soy 4855, vuelta: 59, contador: 360
+hola soy 4855, vuelta: 60, contador: 361
+hola soy 4855, vuelta: 61, contador: 362
+hola soy 4855, vuelta: 62, contador: 363
+hola soy 4855, vuelta: 63, contador: 364
+hola soy 4855, vuelta: 64, contador: 365
+hola soy 4855, vuelta: 65, contador: 366
+hola soy 4855, vuelta: 66, contador: 367
+hola soy 4855, vuelta: 67, contador: 368
+hola soy 4855, vuelta: 68, contador: 369
+hola soy 4855, vuelta: 69, contador: 370
+hola soy 4855, vuelta: 70, contador: 371
+hola soy 4855, vuelta: 71, contador: 372
+hola soy 4855, vuelta: 72, contador: 373
+hola soy 4855, vuelta: 73, contador: 374
+hola soy 4855, vuelta: 74, contador: 375
+hola soy 4855, vuelta: 75, contador: 376
+hola soy 4855, vuelta: 76, contador: 377
+hola soy 4855, vuelta: 77, contador: 378
+hola soy 4855, vuelta: 78, contador: 379
+hola soy 4855, vuelta: 79, contador: 380
+hola soy 4855, vuelta: 80, contador: 381
+hola soy 4855, vuelta: 81, contador: 382
+hola soy 4855, vuelta: 82, contador: 383
+hola soy 4855, vuelta: 83, contador: 384
+hola soy 4855, vuelta: 84, contador: 385
+hola soy 4855, vuelta: 85, contador: 386
+hola soy 4855, vuelta: 86, contador: 387
+hola soy 4855, vuelta: 87, contador: 388
+hola soy 4855, vuelta: 88, contador: 389
+hola soy 4855, vuelta: 89, contador: 390
+hola soy 4855, vuelta: 90, contador: 391
+hola soy 4855, vuelta: 91, contador: 392
+hola soy 4855, vuelta: 92, contador: 393
+hola soy 4855, vuelta: 93, contador: 394
+hola soy 4855, vuelta: 94, contador: 395
+hola soy 4855, vuelta: 95, contador: 396
+hola soy 4855, vuelta: 96, contador: 397
+hola soy 4855, vuelta: 97, contador: 398
+hola soy 4855, vuelta: 98, contador: 399
+hola soy 4855, vuelta: 99, contador: 400
+hola soy 4856, vuelta: 0, contador: 401
+hola soy 4856, vuelta: 1, contador: 402
+hola soy 4856, vuelta: 2, contador: 403
+hola soy 4856, vuelta: 3, contador: 404
+hola soy 4856, vuelta: 4, contador: 405
+hola soy 4856, vuelta: 5, contador: 406
+hola soy 4856, vuelta: 6, contador: 407
+hola soy 4856, vuelta: 7, contador: 408
+hola soy 4856, vuelta: 8, contador: 409
+hola soy 4856, vuelta: 9, contador: 410
+hola soy 4856, vuelta: 10, contador: 411
+hola soy 4856, vuelta: 11, contador: 412
+hola soy 4856, vuelta: 12, contador: 413
+hola soy 4856, vuelta: 13, contador: 414
+hola soy 4856, vuelta: 14, contador: 415
+hola soy 4856, vuelta: 15, contador: 416
+hola soy 4856, vuelta: 16, contador: 417
+hola soy 4856, vuelta: 17, contador: 418
+hola soy 4856, vuelta: 18, contador: 419
+hola soy 4856, vuelta: 19, contador: 420
+hola soy 4856, vuelta: 20, contador: 421
+hola soy 4856, vuelta: 21, contador: 422
+hola soy 4856, vuelta: 22, contador: 423
+hola soy 4856, vuelta: 23, contador: 424
+hola soy 4856, vuelta: 24, contador: 425
+hola soy 4856, vuelta: 25, contador: 426
+hola soy 4856, vuelta: 26, contador: 427
+hola soy 4856, vuelta: 27, contador: 428
+hola soy 4856, vuelta: 28, contador: 429
+hola soy 4856, vuelta: 29, contador: 430
+hola soy 4856, vuelta: 30, contador: 431
+hola soy 4856, vuelta: 31, contador: 432
+hola soy 4856, vuelta: 32, contador: 433
+hola soy 4856, vuelta: 33, contador: 434
+hola soy 4856, vuelta: 34, contador: 435
+hola soy 4856, vuelta: 35, contador: 436
+hola soy 4856, vuelta: 36, contador: 437
+hola soy 4856, vuelta: 37, contador: 438
+hola soy 4856, vuelta: 38, contador: 439
+hola soy 4856, vuelta: 39, contador: 440
+hola soy 4856, vuelta: 40, contador: 441
+hola soy 4856, vuelta: 41, contador: 442
+hola soy 4856, vuelta: 42, contador: 443
+hola soy 4856, vuelta: 43, contador: 444
+hola soy 4856, vuelta: 44, contador: 445
+hola soy 4856, vuelta: 45, contador: 446
+hola soy 4856, vuelta: 46, contador: 447
+hola soy 4856, vuelta: 47, contador: 448
+hola soy 4856, vuelta: 48, contador: 449
+hola soy 4856, vuelta: 49, contador: 450
+hola soy 4856, vuelta: 50, contador: 451
+hola soy 4856, vuelta: 51, contador: 452
+hola soy 4856, vuelta: 52, contador: 453
+hola soy 4856, vuelta: 53, contador: 454
+hola soy 4856, vuelta: 54, contador: 455
+hola soy 4856, vuelta: 55, contador: 456
+hola soy 4856, vuelta: 56, contador: 457
+hola soy 4856, vuelta: 57, contador: 458
+hola soy 4856, vuelta: 58, contador: 459
+hola soy 4856, vuelta: 59, contador: 460
+hola soy 4856, vuelta: 60, contador: 461
+hola soy 4856, vuelta: 61, contador: 462
+hola soy 4856, vuelta: 62, contador: 463
+hola soy 4856, vuelta: 63, contador: 464
+hola soy 4856, vuelta: 64, contador: 465
+hola soy 4856, vuelta: 65, contador: 466
+hola soy 4856, vuelta: 66, contador: 467
+hola soy 4856, vuelta: 67, contador: 468
+hola soy 4856, vuelta: 68, contador: 469
+hola soy 4856, vuelta: 69, contador: 470
+hola soy 4856, vuelta: 70, contador: 471
+hola soy 4856, vuelta: 71, contador: 472
+hola soy 4856, vuelta: 72, contador: 473
+hola soy 4856, vuelta: 73, contador: 474
+hola soy 4856, vuelta: 74, contador: 475
+hola soy 4856, vuelta: 75, contador: 476
+hola soy 4856, vuelta: 76, contador: 477
+hola soy 4856, vuelta: 77, contador: 478
+hola soy 4856, vuelta: 78, contador: 479
+hola soy 4856, vuelta: 79, contador: 480
+hola soy 4856, vuelta: 80, contador: 481
+hola soy 4856, vuelta: 81, contador: 482
+hola soy 4856, vuelta: 82, contador: 483
+hola soy 4856, vuelta: 83, contador: 484
+hola soy 4856, vuelta: 84, contador: 485
+hola soy 4856, vuelta: 85, contador: 486
+hola soy 4856, vuelta: 86, contador: 487
+hola soy 4856, vuelta: 87, contador: 488
+hola soy 4856, vuelta: 88, contador: 489
+hola soy 4856, vuelta: 89, contador: 490
+hola soy 4856, vuelta: 90, contador: 491
+hola soy 4856, vuelta: 91, contador: 492
+hola soy 4856, vuelta: 92, contador: 493
+hola soy 4856, vuelta: 93, contador: 494
+hola soy 4856, vuelta: 94, contador: 495
+hola soy 4856, vuelta: 95, contador: 496
+hola soy 4856, vuelta: 96, contador: 497
+hola soy 4856, vuelta: 97, contador: 498
+hola soy 4856, vuelta: 98, contador: 499
+hola soy 4856, vuelta: 99, contador: 500
+hola soy 4857, vuelta: 0, contador: 501
+hola soy 4857, vuelta: 1, contador: 502
+hola soy 4857, vuelta: 2, contador: 503
+hola soy 4857, vuelta: 3, contador: 504
+hola soy 4857, vuelta: 4, contador: 505
+hola soy 4857, vuelta: 5, contador: 506
+hola soy 4857, vuelta: 6, contador: 507
+hola soy 4857, vuelta: 7, contador: 508
+hola soy 4857, vuelta: 8, contador: 509
+hola soy 4857, vuelta: 9, contador: 510
+hola soy 4857, vuelta: 10, contador: 511
+hola soy 4857, vuelta: 11, contador: 512
+hola soy 4857, vuelta: 12, contador: 513
+hola soy 4857, vuelta: 13, contador: 514
+hola soy 4857, vuelta: 14, contador: 515
+hola soy 4857, vuelta: 15, contador: 516
+hola soy 4857, vuelta: 16, contador: 517
+hola soy 4857, vuelta: 17, contador: 518
+hola soy 4857, vuelta: 18, contador: 519
+hola soy 4857, vuelta: 19, contador: 520
+hola soy 4857, vuelta: 20, contador: 521
+hola soy 4857, vuelta: 21, contador: 522
+hola soy 4857, vuelta: 22, contador: 523
+hola soy 4857, vuelta: 23, contador: 524
+hola soy 4857, vuelta: 24, contador: 525
+hola soy 4857, vuelta: 25, contador: 526
+hola soy 4857, vuelta: 26, contador: 527
+hola soy 4857, vuelta: 27, contador: 528
+hola soy 4857, vuelta: 28, contador: 529
+hola soy 4857, vuelta: 29, contador: 530
+hola soy 4857, vuelta: 30, contador: 531
+hola soy 4857, vuelta: 31, contador: 532
+hola soy 4857, vuelta: 32, contador: 533
+hola soy 4857, vuelta: 33, contador: 534
+hola soy 4857, vuelta: 34, contador: 535
+hola soy 4857, vuelta: 35, contador: 536
+hola soy 4857, vuelta: 36, contador: 537
+hola soy 4857, vuelta: 37, contador: 538
+hola soy 4857, vuelta: 38, contador: 539
+hola soy 4857, vuelta: 39, contador: 540
+hola soy 4857, vuelta: 40, contador: 541
+hola soy 4857, vuelta: 41, contador: 542
+hola soy 4857, vuelta: 42, contador: 543
+hola soy 4857, vuelta: 43, contador: 544
+hola soy 4857, vuelta: 44, contador: 545
+hola soy 4857, vuelta: 45, contador: 546
+hola soy 4857, vuelta: 46, contador: 547
+hola soy 4857, vuelta: 47, contador: 548
+hola soy 4857, vuelta: 48, contador: 549
+hola soy 4857, vuelta: 49, contador: 550
+hola soy 4857, vuelta: 50, contador: 551
+hola soy 4857, vuelta: 51, contador: 552
+hola soy 4857, vuelta: 52, contador: 553
+hola soy 4857, vuelta: 53, contador: 554
+hola soy 4857, vuelta: 54, contador: 555
+hola soy 4857, vuelta: 55, contador: 556
+hola soy 4857, vuelta: 56, contador: 557
+hola soy 4857, vuelta: 57, contador: 558
+hola soy 4857, vuelta: 58, contador: 559
+hola soy 4857, vuelta: 59, contador: 560
+hola soy 4857, vuelta: 60, contador: 561
+hola soy 4857, vuelta: 61, contador: 562
+hola soy 4857, vuelta: 62, contador: 563
+hola soy 4857, vuelta: 63, contador: 564
+hola soy 4857, vuelta: 64, contador: 565
+hola soy 4857, vuelta: 65, contador: 566
+hola soy 4857, vuelta: 66, contador: 567
+hola soy 4857, vuelta: 67, contador: 568
+hola soy 4857, vuelta: 68, contador: 569
+hola soy 4857, vuelta: 69, contador: 570
+hola soy 4857, vuelta: 70, contador: 571
+hola soy 4857, vuelta: 71, contador: 572
+hola soy 4857, vuelta: 72, contador: 573
+hola soy 4857, vuelta: 73, contador: 574
+hola soy 4857, vuelta: 74, contador: 575
+hola soy 4857, vuelta: 75, contador: 576
+hola soy 4857, vuelta: 76, contador: 577
+hola soy 4857, vuelta: 77, contador: 578
+hola soy 4857, vuelta: 78, contador: 579
+hola soy 4857, vuelta: 79, contador: 580
+hola soy 4857, vuelta: 80, contador: 581
+hola soy 4857, vuelta: 81, contador: 582
+hola soy 4857, vuelta: 82, contador: 583
+hola soy 4857, vuelta: 83, contador: 584
+hola soy 4857, vuelta: 84, contador: 585
+hola soy 4857, vuelta: 85, contador: 586
+hola soy 4857, vuelta: 86, contador: 587
+hola soy 4857, vuelta: 87, contador: 588
+hola soy 4857, vuelta: 88, contador: 589
+hola soy 4857, vuelta: 89, contador: 590
+hola soy 4857, vuelta: 90, contador: 591
+hola soy 4857, vuelta: 91, contador: 592
+hola soy 4857, vuelta: 92, contador: 593
+hola soy 4857, vuelta: 93, contador: 594
+hola soy 4857, vuelta: 94, contador: 595
+hola soy 4857, vuelta: 95, contador: 596
+hola soy 4857, vuelta: 96, contador: 597
+hola soy 4857, vuelta: 97, contador: 598
+hola soy 4857, vuelta: 98, contador: 599
+hola soy 4857, vuelta: 99, contador: 600
+hola soy 4858, vuelta: 0, contador: 601
+hola soy 4858, vuelta: 1, contador: 602
+hola soy 4858, vuelta: 2, contador: 603
+hola soy 4858, vuelta: 3, contador: 604
+hola soy 4858, vuelta: 4, contador: 605
+hola soy 4858, vuelta: 5, contador: 606
+hola soy 4859, vuelta: 0, contador: 605
+hola soy 4859, vuelta: 1, contador: 607
+hola soy 4859, vuelta: 2, contador: 608
+hola soy 4858, vuelta: 6, contador: 609
+hola soy 4858, vuelta: 7, contador: 611
+hola soy 4859, vuelta: 3, contador: 610
+hola soy 4858, vuelta: 8, contador: 612
+hola soy 4858, vuelta: 9, contador: 613
+hola soy 4858, vuelta: 10, contador: 614
+hola soy 4859, vuelta: 4, contador: 614
+hola soy 4859, vuelta: 5, contador: 616
+hola soy 4859, vuelta: 6, contador: 617
+hola soy 4859, vuelta: 7, contador: 618
+hola soy 4859, vuelta: 8, contador: 619
+hola soy 4859, vuelta: 9, contador: 620
+hola soy 4859, vuelta: 10, contador: 621
+hola soy 4858, vuelta: 11, contador: 619
+hola soy 4859, vuelta: 11, contador: 622
+hola soy 4859, vuelta: 12, contador: 623
+hola soy 4858, vuelta: 12, contador: 624
+hola soy 4858, vuelta: 13, contador: 625
+hola soy 4858, vuelta: 14, contador: 626
+hola soy 4858, vuelta: 15, contador: 627
+hola soy 4858, vuelta: 16, contador: 626
+hola soy 4858, vuelta: 17, contador: 627
+hola soy 4858, vuelta: 18, contador: 628
+hola soy 4859, vuelta: 13, contador: 627
+hola soy 4858, vuelta: 19, contador: 629
+hola soy 4858, vuelta: 20, contador: 630
+hola soy 4858, vuelta: 21, contador: 631
+hola soy 4858, vuelta: 22, contador: 632
+hola soy 4858, vuelta: 23, contador: 633
+hola soy 4858, vuelta: 24, contador: 634
+hola soy 4858, vuelta: 25, contador: 635
+hola soy 4859, vuelta: 14, contador: 636
+hola soy 4858, vuelta: 26, contador: 636
+hola soy 4858, vuelta: 27, contador: 637
+hola soy 4858, vuelta: 28, contador: 638
+hola soy 4858, vuelta: 29, contador: 639
+hola soy 4858, vuelta: 30, contador: 641
+hola soy 4858, vuelta: 31, contador: 642
+hola soy 4858, vuelta: 32, contador: 643
+hola soy 4858, vuelta: 33, contador: 644
+hola soy 4858, vuelta: 34, contador: 645
+hola soy 4858, vuelta: 35, contador: 646
+hola soy 4858, vuelta: 36, contador: 647
+hola soy 4858, vuelta: 37, contador: 648
+hola soy 4858, vuelta: 38, contador: 649
+hola soy 4859, vuelta: 15, contador: 649
+hola soy 4858, vuelta: 39, contador: 650
+hola soy 4858, vuelta: 40, contador: 651
+hola soy 4858, vuelta: 41, contador: 652
+hola soy 4858, vuelta: 42, contador: 653
+hola soy 4858, vuelta: 43, contador: 654
+hola soy 4859, vuelta: 16, contador: 656
+hola soy 4858, vuelta: 44, contador: 656
+hola soy 4859, vuelta: 17, contador: 657
+hola soy 4858, vuelta: 45, contador: 658
+hola soy 4859, vuelta: 18, contador: 658
+hola soy 4858, vuelta: 46, contador: 659
+hola soy 4859, vuelta: 19, contador: 659
+hola soy 4859, vuelta: 20, contador: 660
+hola soy 4858, vuelta: 47, contador: 661
+hola soy 4859, vuelta: 21, contador: 662
+hola soy 4858, vuelta: 48, contador: 663
+hola soy 4859, vuelta: 22, contador: 664
+hola soy 4858, vuelta: 49, contador: 665
+hola soy 4859, vuelta: 23, contador: 667
+hola soy 4858, vuelta: 50, contador: 667
+hola soy 4859, vuelta: 24, contador: 668
+hola soy 4858, vuelta: 51, contador: 668
+hola soy 4859, vuelta: 25, contador: 669
+hola soy 4858, vuelta: 52, contador: 669
+hola soy 4858, vuelta: 53, contador: 670
+hola soy 4859, vuelta: 26, contador: 671
+hola soy 4858, vuelta: 54, contador: 672
+hola soy 4859, vuelta: 27, contador: 673
+hola soy 4858, vuelta: 55, contador: 674
+hola soy 4859, vuelta: 28, contador: 675
+hola soy 4858, vuelta: 56, contador: 676
+hola soy 4859, vuelta: 29, contador: 677
+hola soy 4858, vuelta: 57, contador: 678
+hola soy 4859, vuelta: 30, contador: 679
+hola soy 4859, vuelta: 31, contador: 680
+hola soy 4859, vuelta: 32, contador: 681
+hola soy 4858, vuelta: 58, contador: 679
+hola soy 4859, vuelta: 33, contador: 682
+hola soy 4859, vuelta: 34, contador: 683
+hola soy 4858, vuelta: 59, contador: 684
+hola soy 4859, vuelta: 35, contador: 685
+hola soy 4858, vuelta: 60, contador: 686
+hola soy 4858, vuelta: 61, contador: 688
+hola soy 4859, vuelta: 36, contador: 688
+hola soy 4858, vuelta: 62, contador: 689
+hola soy 4859, vuelta: 37, contador: 690
+hola soy 4858, vuelta: 63, contador: 691
+hola soy 4859, vuelta: 38, contador: 692
+hola soy 4859, vuelta: 39, contador: 694
+hola soy 4858, vuelta: 64, contador: 693
+hola soy 4859, vuelta: 40, contador: 695
+hola soy 4859, vuelta: 41, contador: 696
+hola soy 4858, vuelta: 65, contador: 697
+hola soy 4859, vuelta: 42, contador: 698
+hola soy 4859, vuelta: 43, contador: 699
+hola soy 4858, vuelta: 66, contador: 699
+hola soy 4859, vuelta: 44, contador: 700
+hola soy 4858, vuelta: 67, contador: 700
+hola soy 4859, vuelta: 45, contador: 701
+hola soy 4858, vuelta: 68, contador: 701
+hola soy 4859, vuelta: 46, contador: 702
+hola soy 4858, vuelta: 69, contador: 702
+hola soy 4858, vuelta: 70, contador: 703
+hola soy 4859, vuelta: 47, contador: 703
+hola soy 4859, vuelta: 48, contador: 704
+hola soy 4858, vuelta: 71, contador: 705
+hola soy 4859, vuelta: 49, contador: 706
+hola soy 4858, vuelta: 72, contador: 707
+hola soy 4859, vuelta: 50, contador: 708
+hola soy 4859, vuelta: 51, contador: 710
+hola soy 4858, vuelta: 73, contador: 709
+hola soy 4859, vuelta: 52, contador: 711
+hola soy 4858, vuelta: 74, contador: 712
+hola soy 4859, vuelta: 53, contador: 713
+hola soy 4859, vuelta: 54, contador: 715
+hola soy 4859, vuelta: 55, contador: 716
+hola soy 4858, vuelta: 75, contador: 714
+hola soy 4859, vuelta: 56, contador: 717
+hola soy 4858, vuelta: 76, contador: 718
+hola soy 4859, vuelta: 57, contador: 719
+hola soy 4858, vuelta: 77, contador: 720
+hola soy 4858, vuelta: 78, contador: 722
+hola soy 4859, vuelta: 58, contador: 721
+hola soy 4858, vuelta: 79, contador: 723
+hola soy 4858, vuelta: 80, contador: 725
+hola soy 4859, vuelta: 59, contador: 725
+hola soy 4858, vuelta: 81, contador: 726
+hola soy 4859, vuelta: 60, contador: 726
+hola soy 4858, vuelta: 82, contador: 727
+hola soy 4859, vuelta: 61, contador: 727
+hola soy 4859, vuelta: 62, contador: 728
+hola soy 4858, vuelta: 83, contador: 728
+hola soy 4859, vuelta: 63, contador: 729
+hola soy 4858, vuelta: 84, contador: 730
+hola soy 4858, vuelta: 85, contador: 732
+hola soy 4859, vuelta: 64, contador: 732
+hola soy 4858, vuelta: 86, contador: 733
+hola soy 4859, vuelta: 65, contador: 733
+hola soy 4858, vuelta: 87, contador: 734
+hola soy 4858, vuelta: 88, contador: 735
+hola soy 4858, vuelta: 89, contador: 736
+hola soy 4858, vuelta: 90, contador: 737
+hola soy 4858, vuelta: 91, contador: 738
+hola soy 4859, vuelta: 66, contador: 734
+hola soy 4858, vuelta: 92, contador: 739
+hola soy 4858, vuelta: 93, contador: 740
+hola soy 4859, vuelta: 67, contador: 741
+hola soy 4858, vuelta: 94, contador: 742
+hola soy 4858, vuelta: 95, contador: 744
+hola soy 4858, vuelta: 96, contador: 745
+hola soy 4859, vuelta: 68, contador: 746
+hola soy 4858, vuelta: 97, contador: 746
+hola soy 4858, vuelta: 98, contador: 747
+hola soy 4858, vuelta: 99, contador: 748
+hola soy 4859, vuelta: 69, contador: 749
+hola soy 4859, vuelta: 70, contador: 750
+hola soy 4859, vuelta: 71, contador: 751
+hola soy 4859, vuelta: 72, contador: 752
+hola soy 4859, vuelta: 73, contador: 753
+hola soy 4859, vuelta: 74, contador: 754
+hola soy 4859, vuelta: 75, contador: 755
+hola soy 4859, vuelta: 76, contador: 756
+hola soy 4859, vuelta: 77, contador: 757
+hola soy 4859, vuelta: 78, contador: 758
+hola soy 4859, vuelta: 79, contador: 759
+hola soy 4859, vuelta: 80, contador: 760
+hola soy 4859, vuelta: 81, contador: 761
+hola soy 4859, vuelta: 82, contador: 762
+hola soy 4859, vuelta: 83, contador: 763
+hola soy 4859, vuelta: 84, contador: 764
+hola soy 4859, vuelta: 85, contador: 765
+hola soy 4859, vuelta: 86, contador: 766
+hola soy 4859, vuelta: 87, contador: 767
+hola soy 4859, vuelta: 88, contador: 768
+hola soy 4859, vuelta: 89, contador: 769
+hola soy 4859, vuelta: 90, contador: 770
+hola soy 4859, vuelta: 91, contador: 771
+hola soy 4859, vuelta: 92, contador: 772
+hola soy 4859, vuelta: 93, contador: 773
+hola soy 4859, vuelta: 94, contador: 774
+hola soy 4859, vuelta: 95, contador: 775
+hola soy 4859, vuelta: 96, contador: 776
+hola soy 4859, vuelta: 97, contador: 777
+hola soy 4859, vuelta: 98, contador: 778
+hola soy 4859, vuelta: 99, contador: 779
+adios
+Valor final del contador 779
+fin
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit add 0_procesos.py      sos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit commit -m "0_procesos" .py"[?2004l
+[main 980bc5c] 0_procesos.py
+ Committer: terescar@ucm.es <teresa@MacBook-Air-de-Teresa.local>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 26 insertions(+)
+ create mode 100644 0_procesos.py
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit config --global user.name "teresacarrascoperez"[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit config --global user.email terescar@ucm.es[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit add 0_procesos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit commit -m "0_procesos.py"[?2004l
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m1_procesos.py[m
+	[31m2_procesos.py[m
+	[31m3_procesos.py[m
+	[31m4_procesos.py[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit push[?2004l
+Enter passphrase for key '/Users/teresa/.ssh/id_rsa': 
+Enumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 584 bytes | 584.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:teresacarrascoperez/GIT_Multiprocessing.git
+   a100513..980bc5c  main -> main
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit add 1_procesos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit commit -m "1_procesos.py"[?2004l
+[main 0c33c04] 1_procesos.py
+ 1 file changed, 32 insertions(+)
+ create mode 100644 1_procesos.py
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit push[?2004l
+Enter passphrase for key '/Users/teresa/.ssh/id_rsa': 
+Enumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 632 bytes | 632.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:teresacarrascoperez/GIT_Multiprocessing.git
+   980bc5c..0c33c04  main -> main
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit add 2_procesos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit commit -m "2_procesos.py"[?2004l
+[main 40b15f6] 2_procesos.py
+ 1 file changed, 34 insertions(+)
+ create mode 100644 2_procesos.py
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit push[?2004l
+Enter passphrase for key '/Users/teresa/.ssh/id_rsa': 
+Enumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 694 bytes | 694.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:teresacarrascoperez/GIT_Multiprocessing.git
+   0c33c04..40b15f6  main -> main
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit add 3 3_procesos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit commit -m "3_procesos.py"[?2004l
+[main b85407b] 3_procesos.py
+ 1 file changed, 27 insertions(+)
+ create mode 100644 3_procesos.py
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit push[?2004l
+Enter passphrase for key '/Users/teresa/.ssh/id_rsa': 
+Enumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 593 bytes | 593.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:teresacarrascoperez/GIT_Multiprocessing.git
+   40b15f6..b85407b  main -> main
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit add 4_procesos.py[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit commit -m "4_procesos.py"[?2004l
+[main 829cffa] 4_procesos.py
+ 1 file changed, 34 insertions(+)
+ create mode 100644 4_procesos.py
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004hggit push[?2004l
+Enter passphrase for key '/Users/teresa/.ssh/id_rsa': 
+Enumerating objects: 4, done.
+Counting objects:  25% (1/4)Counting objects:  50% (2/4)Counting objects:  75% (3/4)Counting objects: 100% (4/4)Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 609 bytes | 609.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/1)[Kremote: Resolving deltas: 100% (1/1)[Kremote: Resolving deltas: 100% (1/1), completed with 1 local object.[K
+To github.com:teresacarrascoperez/GIT_Multiprocessing.git
+   b85407b..829cffa  main -> main
+[1m[7m%[27m[1m[0m                                                                                                                                                                                                            ]7;file://MacBook-Air-de-Teresa.local/Users/teresa/Desktop/PRPA/pc/GIT_Multiprocessing[0m[27m[24m[J(base) teresa@MacBook-Air-de-Teresa GIT_Multiprocessing % [K[?2004h[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Feb  3 20:13:06 2022
